@@ -6,6 +6,7 @@
   * [Time Aware Vector Tile Basemaps](https://odoe.github.io/esrijs4-vt-misc/vector-tile-time-switch.html)
   * [Color Smasher Demo](https://odoe.github.io/esrijs4-vt-misc/vector-tile-color-smasher.html)
   * [Query demo](https://odoe.github.io/esrijs4-vt-misc/vector-tile-query.html)
+  * [Branded map](https://odoe.github.io/esrijs4-vt-misc/css-vectortiles/)
 
 ## Resources
 * [Mapbox GL Style Reference](https://www.mapbox.com/mapbox-gl-style-spec/)
