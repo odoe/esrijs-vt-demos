@@ -10,6 +10,7 @@
 
 ## Resources
 * [Mapbox GL Style Reference](https://www.mapbox.com/mapbox-gl-style-spec/)
+* [ArcGIS Vector Tile Reference Document](https://www.arcgis.com/home/item.html?id=f0b44a7e86b84109920e23e1e09d38a8)
 * [ArcGIS API 4 for JavaScript VectorTileLayer](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-VectorTileLayer.html)
 * [ArcGIS API 3 for JavaScript VectorTileLayer](https://developers.arcgis.com/javascript/3/jsapi/vectortilelayer-amd.html)
 * [Considerations for Using Vector Tile Layers in ArcGIS Online](https://blogs.esri.com/esri/supportcenter/2015/11/18/considerations-for-using-vector-tile-layers-in-arcgis-online/)
